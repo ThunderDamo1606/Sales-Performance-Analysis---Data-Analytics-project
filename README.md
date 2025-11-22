@@ -275,10 +275,6 @@ The project is suitable for **Data Analyst**, **Business Analyst**, and **BI Dev
 
 ### Damodar Sadavarte
 
-<p align="left">
-<img src="https://via.placeholder.com/150" width="150" style="border-radius: 50%;" />
-</p>
-
 - 📧 **Email:** [damodarsadavarte2000@gmail.com](mailto:damodarsadavarte2000@gmail.com)
 - 🔗 **LinkedIn:** [www.linkedin.com/in/damodar-sadavarte](https://www.linkedin.com/in/damodar-sadavarte)
 - 📊 **Data Analyst – SQL | Python | Power BI | ML & AI**
