@@ -273,7 +273,7 @@ The project is suitable for **Data Analyst**, **Business Analyst**, and **BI Dev
 
 ---
 
-### Damodar Sadavarte
+###             Damodar Sadavarte
 
 - 📧 **Email:** [damodarsadavarte2000@gmail.com](mailto:damodarsadavarte2000@gmail.com)
 - 🔗 **LinkedIn:** [www.linkedin.com/in/damodar-sadavarte](https://www.linkedin.com/in/damodar-sadavarte)
